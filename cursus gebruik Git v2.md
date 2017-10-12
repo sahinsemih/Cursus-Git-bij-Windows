@@ -104,7 +104,7 @@ Dit kan je in kladblok maken en bij opslaan als kiezen voor ‘alle bestanden’
 ```
 C:\Users\UsersName\Documents\EersteProject>notepad.exe readme.md
 ```
-(plaats afbeelding)  
+![test](Cursus-Git-bij-Windows/addedFiles.PNG)
 
 Nu opent kladblok en krijg je een pop-up: dit bestand bestaat niet, moet ik dit aanmaken? Je klikt ja. 
  
